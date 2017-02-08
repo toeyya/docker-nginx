@@ -12258,3 +12258,6 @@
 172.18.0.1|a7f5e80c4eb2|-|[08/Feb/2017:14:33:27 +0700]|GET /portin/request/otp/66808060110 HTTP/1.1|404|162|-|-|Apache-HttpClient/4.1.1 (java 1.5)|-|0.001|0.001
 172.18.0.1|c96017bdd6b4|-|[08/Feb/2017:14:37:17 +0700]|GET /portin/request/otp/66808060110 HTTP/1.1|404|162|-|-|Apache-HttpClient/4.1.1 (java 1.5)|-|0.000|0.000
 172.18.0.1|2f4f3c215fd4|-|[08/Feb/2017:14:39:45 +0700]|GET /portin/request/otp/66808060110 HTTP/1.1|200|418|-|-|Apache-HttpClient/4.1.1 (java 1.5)|-|3.050|3.050
+172.18.0.1|7c69c71ed4f1|-|[08/Feb/2017:18:13:31 +0700]|GET /portin/request/otp/66808060110 HTTP/1.1|400|264|-|-|Apache-HttpClient/4.1.1 (java 1.5)|-|0.000|-
+172.18.0.1|7c69c71ed4f1|-|[08/Feb/2017:18:13:42 +0700]|GET /portin/request/otp/66808060110 HTTP/1.1|400|264|-|-|Apache-HttpClient/4.1.1 (java 1.5)|-|0.000|-
+172.18.0.1|0545d673a93d|-|[08/Feb/2017:18:15:24 +0700]|GET /portin/request/otp/66808060110 HTTP/1.1|200|418|-|-|Apache-HttpClient/4.1.1 (java 1.5)|-|1.832|1.832
